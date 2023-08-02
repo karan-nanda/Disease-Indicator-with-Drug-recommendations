@@ -1,4 +1,4 @@
-# Disease-Indicator and Drug recommendations
+# Disease-Indicator with Drug recommendations
 
 ## Medical Condition Prediction with NLP
 This repository contains code for a natural language processing (NLP) trained model that detects key words and predicts medical conditions. The model is designed to predict one out of four trained conditions: Depression, High Blood Pressure, Diabetes (Type 2), and Birth Control whilst giving three drug recommendations
